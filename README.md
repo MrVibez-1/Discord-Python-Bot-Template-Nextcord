@@ -4,3 +4,4 @@
 ## REQUIREMENTS
 * [ ] python dot-env
 * [ ] nextcord
+* [ ] Create .env file | TOKEN= 
